@@ -52,9 +52,11 @@ Telerik Reporting platformu kullanılarak geliştirilen bu .NET Core projesi, ö
 
 ### ⚙️ Veri Kaynağı ve Ayar Ekranı
 ![Data Source](images/data_sourcebaglantı8.png)
+Page Setup ile pdf çıktısının ayarı yapılır.
 ![Page Setup](images/page_setup9.png)
 
 ### 🖨️ PDF Oluşturma ve Çıktı Önizlemesi
+Export yazan kısımdan pdf çıktısı ya da başka bir formatta rapor alınır.
 ![PDF Oluşturma Ekranı](images/pdfolusturma10.png)
 ![PDF Görüntüsü](images/pdf11.png)
 
