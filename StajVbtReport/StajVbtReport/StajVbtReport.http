@@ -1,0 +1,6 @@
+@StajVbtReport_HostAddress = http://localhost:5203
+
+GET {{StajVbtReport_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

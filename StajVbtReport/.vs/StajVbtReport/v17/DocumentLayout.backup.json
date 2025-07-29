@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5D2EAE-8EE8-4276-AA8C-E95FC7F4C191}|Service\\Service.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\service\\reportservice\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5D2EAE-8EE8-4276-AA8C-E95FC7F4C191}|Service\\Service.csproj|solutionrelative:service\\reportservice\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E9F0EE-BD6F-425B-8002-F97A2FC6311C}|StajVbtReport\\StajVbtReport.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\stajvbtreport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E9F0EE-BD6F-425B-8002-F97A2FC6311C}|StajVbtReport\\StajVbtReport.csproj|solutionrelative:stajvbtreport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E9F0EE-BD6F-425B-8002-F97A2FC6311C}|StajVbtReport\\StajVbtReport.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\stajvbtreport\\stajvbtreport.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C9E9F0EE-BD6F-425B-8002-F97A2FC6311C}|StajVbtReport\\StajVbtReport.csproj|solutionrelative:stajvbtreport\\stajvbtreport.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E9F0EE-BD6F-425B-8002-F97A2FC6311C}|StajVbtReport\\StajVbtReport.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\stajvbtreport\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9E9F0EE-BD6F-425B-8002-F97A2FC6311C}|StajVbtReport\\StajVbtReport.csproj|solutionrelative:stajvbtreport\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E9F0EE-BD6F-425B-8002-F97A2FC6311C}|StajVbtReport\\StajVbtReport.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\stajvbtreport\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E9F0EE-BD6F-425B-8002-F97A2FC6311C}|StajVbtReport\\StajVbtReport.csproj|solutionrelative:stajvbtreport\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E9F0EE-BD6F-425B-8002-F97A2FC6311C}|StajVbtReport\\StajVbtReport.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\stajvbtreport\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9E9F0EE-BD6F-425B-8002-F97A2FC6311C}|StajVbtReport\\StajVbtReport.csproj|solutionrelative:stajvbtreport\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5D2EAE-8EE8-4276-AA8C-E95FC7F4C191}|Service\\Service.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\service\\reportservice\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5D2EAE-8EE8-4276-AA8C-E95FC7F4C191}|Service\\Service.csproj|solutionrelative:service\\reportservice\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7247DD-AF67-4183-A71E-F5D280617D48}|Core\\Core.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7247DD-AF67-4183-A71E-F5D280617D48}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7247DD-AF67-4183-A71E-F5D280617D48}|Core\\Core.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\core\\models\\studentreportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7247DD-AF67-4183-A71E-F5D280617D48}|Core\\Core.csproj|solutionrelative:core\\models\\studentreportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7247DD-AF67-4183-A71E-F5D280617D48}|Core\\Core.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\core\\models\\reportresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7247DD-AF67-4183-A71E-F5D280617D48}|Core\\Core.csproj|solutionrelative:core\\models\\reportresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7247DD-AF67-4183-A71E-F5D280617D48}|Core\\Core.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\core\\models\\reportrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7247DD-AF67-4183-A71E-F5D280617D48}|Core\\Core.csproj|solutionrelative:core\\models\\reportrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5D2EAE-8EE8-4276-AA8C-E95FC7F4C191}|Service\\Service.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB5D2EAE-8EE8-4276-AA8C-E95FC7F4C191}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5D2EAE-8EE8-4276-AA8C-E95FC7F4C191}|Service\\Service.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5D2EAE-8EE8-4276-AA8C-E95FC7F4C191}|Service\\Service.csproj|solutionrelative:service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7247DD-AF67-4183-A71E-F5D280617D48}|Core\\Core.csproj|c:\\users\\laptop dunyas\u0131\\onedrive\\masa\u00FCst\u00FC\\stajvbtreport\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC7247DD-AF67-4183-A71E-F5D280617D48}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\StajVbtReport\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "StajVbtReport\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\StajVbtReport\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "StajVbtReport\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:15:10.297Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{75504045-d02f-44e5-bf60-5f60df380e8b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\StajVbtReport\\appsettings.json",
+              "RelativeDocumentMoniker": "StajVbtReport\\appsettings.json",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\StajVbtReport\\appsettings.json",
+              "RelativeToolTip": "StajVbtReport\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T17:16:25.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T05:56:30.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T05:47:15.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentReportModel.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Core\\Models\\StudentReportModel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\StudentReportModel.cs",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Core\\Models\\StudentReportModel.cs",
+              "RelativeToolTip": "Core\\Models\\StudentReportModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:40:35.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\StajVbtReport\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StajVbtReport\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\StajVbtReport\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StajVbtReport\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T03:42:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StajVbtReport.http",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\StajVbtReport\\StajVbtReport.http",
+              "RelativeDocumentMoniker": "StajVbtReport\\StajVbtReport.http",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\StajVbtReport\\StajVbtReport.http",
+              "RelativeToolTip": "StajVbtReport\\StajVbtReport.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-01T21:57:03.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\StajVbtReport\\Program.cs",
+              "RelativeDocumentMoniker": "StajVbtReport\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\StajVbtReport\\Program.cs",
+              "RelativeToolTip": "StajVbtReport\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAjwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:37:40.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Service\\ReportService\\ReportService.cs",
+              "RelativeDocumentMoniker": "Service\\ReportService\\ReportService.cs",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Service\\ReportService\\ReportService.cs",
+              "RelativeToolTip": "Service\\ReportService\\ReportService.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAYwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:18:13.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Service\\ReportService\\IReportService.cs",
+              "RelativeDocumentMoniker": "Service\\ReportService\\IReportService.cs",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Service\\ReportService\\IReportService.cs",
+              "RelativeToolTip": "Service\\ReportService\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:17:42.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Core\\Models\\ReportResponseModel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\ReportResponseModel.cs",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Core\\Models\\ReportResponseModel.cs",
+              "RelativeToolTip": "Core\\Models\\ReportResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:16:17.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Core\\Models\\ReportRequestModel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\ReportRequestModel.cs",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Core\\Models\\ReportRequestModel.cs",
+              "RelativeToolTip": "Core\\Models\\ReportRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:15:54.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Core\\Class1.cs",
+              "RelativeToolTip": "Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:14:28.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\Laptop Dunyas\u0131\\OneDrive\\Masa\u00FCst\u00FC\\StajVbtReport\\Service\\Class1.cs",
+              "RelativeToolTip": "Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:14:09.5Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

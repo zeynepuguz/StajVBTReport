@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Laptop Dunyası\OneDrive\Masaüstü\StajVbtReport\StajVbtReport\StajVbtReport.csproj" />
+  <event action="Analyze" type="Success" name="StajVbtReport" path="C:\Users\Laptop Dunyası\OneDrive\Masaüstü\StajVbtReport\StajVbtReport\StajVbtReport.csproj" />
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Laptop Dunyası\OneDrive\Masaüstü\StajVbtReport\Service\Service.csproj" />
+  <event action="Analyze" type="Success" name="Service" path="C:\Users\Laptop Dunyası\OneDrive\Masaüstü\StajVbtReport\Service\Service.csproj" />
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Laptop Dunyası\OneDrive\Masaüstü\StajVbtReport\Core\Core.csproj" />
+  <event action="Analyze" type="Success" name="Core" path="C:\Users\Laptop Dunyası\OneDrive\Masaüstü\StajVbtReport\Core\Core.csproj" />
+  <event action="Analyze" type="Success" name="StajVbtReport" path="C:\Users\Laptop Dunyası\OneDrive\Masaüstü\StajVbtReport\StajVbtReport.sln" />
+</log>
