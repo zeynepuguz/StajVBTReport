@@ -35,19 +35,19 @@ Telerik Reporting platformu kullanılarak geliştirilen bu .NET Core projesi, ö
 ### 📚 Sadece Fizik Notlarını Gösteren Sorgu
 ![Fizik Notları](images/Fiziknotlari3.png)
 
-### ✅ Geçen Öğrenciler
+### ✅ Fizikte Geçen Öğrenciler
 ![Geçen Öğrenciler](images/gecen_ogrenciler5.png)
 
-### ❌ Kalan Öğrenciler
+### ❌ Fizikte Kalan Öğrenciler
 ![Kalan Öğrenciler](images/kalan_ogrenciler4.png)
 
 ### 🧪 Sadece Vize (Midterm) Notları
 ![Only Midterm](images/only_midterm2.png)
 
-### 📄 Sadece Final Notları Olmayanlar
+### 📄Vize ve Final Notları Olmadığında : Ortalama ve geçme kalma durumlaarı gösterilmez. 
 ![No Final Midterm](images/nofinal_midterm1.png)
 
-### 🔁 Bütünleme Durumu Hesaplama
+### 🔁 Bütünleme Durumu Hesaplama: Mesaj sadece büt hesabında görünür.
 ![Bütünleme](images/Buthesabi6.png)
 
 ### ⚙️ Veri Kaynağı ve Ayar Ekranı
@@ -55,8 +55,9 @@ Telerik Reporting platformu kullanılarak geliştirilen bu .NET Core projesi, ö
 ![Page Setup](images/page_setup9.png)
 
 ### 🖨️ PDF Oluşturma ve Çıktı Önizlemesi
-![PDF Görüntüsü](images/pdf11.png)
 ![PDF Oluşturma Ekranı](images/pdfolusturma10.png)
+![PDF Görüntüsü](images/pdf11.png)
+
 
 ---
 
