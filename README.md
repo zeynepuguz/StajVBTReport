@@ -25,3 +25,39 @@ Telerik Reporting platformu kullanılarak geliştirilen bu .NET Core projesi, ö
 - C#
 
 
+---
+
+## 🖼️ Ekran Görüntüleri
+
+### 📄 Tüm Sorgular ve Rapor Türleri
+![Sorgu Türleri](images/sorgular7.png)
+
+### 📚 Sadece Fizik Notlarını Gösteren Sorgu
+![Fizik Notları](images/Fiziknotlari3.png)
+
+### ✅ Geçen Öğrenciler
+![Geçen Öğrenciler](images/gecen_ogrenciler5.png)
+
+### ❌ Kalan Öğrenciler
+![Kalan Öğrenciler](images/kalan_ogrenciler4.png)
+
+### 🧪 Sadece Vize (Midterm) Notları
+![Only Midterm](images/only_midterm2.png)
+
+### 📄 Sadece Final Notları Olmayanlar
+![No Final Midterm](images/nofinal_midterm1.png)
+
+### 🔁 Bütünleme Durumu Hesaplama
+![Bütünleme](images/Buthesabi6.png)
+
+### ⚙️ Veri Kaynağı ve Ayar Ekranı
+![Data Source](images/data_sourcebaglantı8.png)
+![Page Setup](images/page_setup9.png)
+
+### 🖨️ PDF Oluşturma ve Çıktı Önizlemesi
+![PDF Görüntüsü](images/pdf11.png)
+![PDF Oluşturma Ekranı](images/pdfolusturma10.png)
+
+---
+
+
